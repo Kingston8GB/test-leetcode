@@ -1,3 +1,5 @@
+package test2024;
+
 /**
  * Author: Xiyao Li
  * Date: 2024/3/3 5:39
@@ -46,6 +48,8 @@ public class Test143 {
             p1 = p1.next.next;
             p2 = temp;
         }
+
+
 
 
     }
