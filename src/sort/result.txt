@@ -1,0 +1,6 @@
+bubble 5.8780
+insert 0.5230
+select 3.0330
+shell 1.1390
+quick 0.0170
+merge 0.0260
