@@ -1,6 +1,6 @@
-package sort.strategy;
+package com.kirin.sort.strategy;
 
-import sort.MySort;
+import com.kirin.sort.MySort;
 
 /**
  * Author: Xiyao Li
