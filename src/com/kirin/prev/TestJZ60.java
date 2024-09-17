@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class TestJZ60 {
     public static double[] dicesProbability(int n) {

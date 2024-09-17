@@ -1,4 +1,4 @@
-package BiWeekly114;
+package com.kirin.BiWeekly114;
 
 public class Test03 {
 

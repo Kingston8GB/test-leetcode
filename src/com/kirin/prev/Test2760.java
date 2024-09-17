@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class Test2760 {
     public int longestAlternatingSubarray(int[] nums, int threshold) {

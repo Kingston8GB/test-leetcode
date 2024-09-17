@@ -1,4 +1,4 @@
-package test2024;
+package com.kirin.test2024;
 
 /**
  * Author: Xiyao Li

@@ -1,7 +1,4 @@
-package prev;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.kirin.prev;
 
 public class Test100048 {
 //    public static long maximumSumOfHeights(List<Integer> maxHeights) {

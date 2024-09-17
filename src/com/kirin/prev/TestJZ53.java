@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class TestJZ53 {
     public static int search(int[] nums, int target) {

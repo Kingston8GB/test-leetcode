@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 import java.util.ArrayList;
 import java.util.List;

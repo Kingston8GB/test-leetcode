@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class TestJZ44 {
     public static int findNthDigit(int n) {

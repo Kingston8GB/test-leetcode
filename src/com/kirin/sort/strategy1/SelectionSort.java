@@ -1,4 +1,4 @@
-package com.kirin.sort.strategy;
+package com.kirin.sort.strategy1;
 
 import com.kirin.sort.MySort;
 

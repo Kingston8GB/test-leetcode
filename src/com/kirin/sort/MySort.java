@@ -1,4 +1,4 @@
-package sort;
+package com.kirin.sort;
 
 /**
  * 排序方法接口

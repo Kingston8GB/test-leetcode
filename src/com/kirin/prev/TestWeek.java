@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class TestWeek {
     public static int minimumSum(int n, int k) {

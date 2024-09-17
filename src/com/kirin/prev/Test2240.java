@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class Test2240 {
     public static long waysToBuyPensPencils(int total, int cost1, int cost2) {

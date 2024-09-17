@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class Test234 {
 

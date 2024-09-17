@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class Test2596 {
     public static boolean checkValidGrid(int[][] grid) {

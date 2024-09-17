@@ -1,4 +1,4 @@
-package prev;
+package com.kirin.prev;
 
 public class Test100152 {
     public int removeAlmostEqualCharacters(String word) {
@@ -9,10 +9,10 @@ public class Test100152 {
             if(i == word.length() - 1) {
                 return res;
             }
-            // if(prev == true && )
+            // if(com.kirin.prev == true && )
             if(isAlmostEqualCharacters(word.charAt(i),word.charAt(i+1))) {
                 res++;
-                // prev = true;
+                // com.kirin.prev = true;
                 i+=2;
             }else{
                 i++;
